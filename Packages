@@ -2,7 +2,7 @@ Package: com.lavandini.jetsampack
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: YourName <YourEmail>
-Filename: debs/com.lavandini.jetsampack0.0.1.deb
+Filename: /debs/com.lavandini.jetsampack0.0.1.deb
 Size: (size without ,'s')
 MD5sum: xxxxxxxxxxxx
 SHA1: xxxxxxxxxxxx
