@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"tintColor": "#8eaaff",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## JETsamPACK\nGimmeTheJetpack"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,22 +19,22 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1-1+debug",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "29/Apr/2021",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "FREE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "Lavandini",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -42,10 +42,6 @@
 					"action": "WEBSITE_HERE",
 					"class": "DepictionTableButtonView"
 				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/sukarodo/Sidia",
-					"class": "DepictionTableButtonView"
 				},
 				{
 					"spacing": 16,
@@ -62,13 +58,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "1-1+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
