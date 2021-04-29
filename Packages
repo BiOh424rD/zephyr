@@ -10,7 +10,7 @@ SHA256: 8c37cc629015a0a01bc9a80601cdfe1aae6e1ae93155296821afaf3786803c37
 Section: Tweaks
 Description: A Jetsam evader.
 SileoDepiction: A Jetsam evader.
-Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
+Depiction:./depictions/com.lavandini.jetsampack
 Installed-Size: 4526
 Name: JETsamPACK
 Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
