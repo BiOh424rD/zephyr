@@ -21,17 +21,19 @@
                "class": "DepictionSeparatorView"
             },
             {
-               "title": "Hey",
-               "author": "author",
-               "markdown": "text",
-               "rating": 5,
+               "title": "⚠️ Note ⚠️",
+               "author": "Lavandini",
+               "markdown": "This is an experimental workaround.",
                "class": "DepictionReviewView"
             },
             {
-                "rating": 5,
-                "alignment": 2,
-                "class": "DepictionRatingView"
-             },
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "Help",
+               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
+               "class": "DepictionTableButtonView"
+            },
             {
                "class": "DepictionSeparatorView"
             },
