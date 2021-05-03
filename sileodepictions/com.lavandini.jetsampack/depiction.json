@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## JETsamPACK\nThis will put some JetSam eater daemons in safemode. Based on the sources of StopCrashingPls by HASBANG PRODUCTIONS."
+					"markdown": "## JETsamPACK\nGimmeMyJetsam"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,17 +19,17 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.2-1+debug",
+					"text": "1-1+debug",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "03/May/2021",
+					"text": "28/Apr/2021",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "Free",
+					"text": "FREE",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -57,29 +57,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.2-1+debug",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 New Daemon added : ",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/Apr/2021</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-				{
 					"title": "1-1+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release.\nDaemon included:\ndeleted\nfileproviderd\nlsd\npkd\nadprivacyd\nsearchd",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
