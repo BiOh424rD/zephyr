@@ -27,6 +27,9 @@
                "rating": 5,
                "class": "DepictionRatingView"
             },
+            {
+               "class": "DepictionSeparatorView"
+            },
 
             {
                "title": "Latest Version",
