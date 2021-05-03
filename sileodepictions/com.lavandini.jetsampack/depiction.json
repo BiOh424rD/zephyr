@@ -28,6 +28,11 @@
                "class": "DepictionReviewView"
             },
             {
+               "rating": 5,
+               "alignment": (2),
+               "class": "DepictionRatingView"
+            }
+            {
                "class": "DepictionSeparatorView"
             },
 
@@ -101,8 +106,3 @@
    ],
    "class": "DepictionTabView"
 }
-            {
-               "rating": 5,
-               "alignment": (2),
-               "class": "DepictionRatingView"
-            }
