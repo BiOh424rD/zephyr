@@ -13,7 +13,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports 14.*\n\nfirst text.\n\n### some bold example.\n\nsecond text.\n\n### latest bold.\n\n",
+               "markdown": "*Supports 14.*\n\nfirst text.\n\n### some bold example.\n\nsecond text.\n\n### Based on'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
@@ -37,11 +37,6 @@
             {
                "title": "Price",
                "text": "Free",
-               "class": "DepictionTableTextView"
-            },
-            {
-               "title": "HASHBANG PRODUCTIONS",
-               "text": "Source Code",
                "class": "DepictionTableTextView"
             },
             {
