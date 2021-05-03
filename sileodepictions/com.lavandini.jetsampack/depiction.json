@@ -38,7 +38,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
+					"title": "Reddit",
 					"action": "https://www.reddit.com/user/Lavandini/",
 					"class": "DepictionTableButtonView"
 				},
