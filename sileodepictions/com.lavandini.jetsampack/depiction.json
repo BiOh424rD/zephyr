@@ -46,11 +46,6 @@
                "class": "DepictionTableTextView"
             },
             {
-               "title": "Price",
-               "text": "Free",
-               "class": "DepictionTableTextView"
-            },
-            {
                "title": "Submit a request or a problem",
                "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
                "class": "DepictionTableButtonView"
@@ -106,3 +101,8 @@
    ],
    "class": "DepictionTabView"
 }
+            {
+               "rating": 5,
+               "alignment": (2),
+               "class": "DepictionRatingView"
+            }
