@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## JETsamPACK\nThis will put some JetSam eater daemons in safemode. Based on the sources of StopCrashingPls by HASBANG PRODUCTIONS."
+					"markdown": "## JETsamPACK\nGimmeMyJetsam"
 				},
 				{
 					"class": "DepictionSeparatorView"
