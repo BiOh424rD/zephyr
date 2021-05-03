@@ -13,7 +13,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports 14.*\n\nfirst text.\n\n### some bold example.\n\nsecond text.\n\n### Based on'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n",
+               "markdown": "*Supports 14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n###endbold.\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
@@ -21,16 +21,16 @@
                "class": "DepictionSeparatorView"
             },
             {
-               "title": "⚠️ Note ⚠️",
+               "title": "⚠️",
                "author": "Lavandini",
-               "markdown": "This is an experimental workaround.",
+               "markdown": "This is an experimental workaround and it may cause instability. So if you don't feel like it, don't install it.",
                "class": "DepictionReviewView"
             },
             {
                "class": "DepictionSeparatorView"
             },
             {
-               "title": "Help",
+               "title": "Submit a request or a problem",
                "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
                "class": "DepictionTableButtonView"
             },
@@ -51,11 +51,6 @@
                "title": "Released",
                "text": "03/May/2021",
                "class": "DepictionTableTextView"
-            },
-            {
-               "title": "Submit a request or a problem",
-               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
-               "class": "DepictionTableButtonView"
             },
             {
                "spacing": 20,
