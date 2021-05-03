@@ -13,7 +13,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports 14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n###endbold.\n\n",
+               "markdown": "*Supports iOS14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n### endbold.\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
