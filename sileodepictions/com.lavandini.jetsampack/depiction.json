@@ -41,7 +41,7 @@
             },
             {
                "title": "Submit a request or a problem",
-               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.html",
+               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
                "class": "DepictionTableButtonView"
             },
             {
