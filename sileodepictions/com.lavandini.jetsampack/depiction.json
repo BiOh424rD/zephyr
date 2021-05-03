@@ -13,7 +13,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports 14.*\n\nfirst text.\n\n### some bold example.\n\nsecond text.\n\n### latest bold.,
+               "markdown": "*Supports 14.*\n\nfirst text.\n\n### some bold example.\n\nsecond text.\n\n### latest bold.",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
