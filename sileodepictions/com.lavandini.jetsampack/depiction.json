@@ -21,6 +21,14 @@
                "class": "DepictionSeparatorView"
             },
             {
+               "title": "Hey",
+               "author": "author",
+               "markdown": "text",
+               "rating": 5,
+               "class": "DepictionRatingView"
+            },
+
+            {
                "title": "Latest Version",
                "class": "DepictionHeaderView"
             },
