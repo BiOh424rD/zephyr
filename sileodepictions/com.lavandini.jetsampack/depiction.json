@@ -25,7 +25,7 @@
                "author": "author",
                "markdown": "text",
                "rating": 5,
-               "class": "DepictionRatingView"
+               "class": "DepictionReviewView"
             },
             {
                "class": "DepictionSeparatorView"
