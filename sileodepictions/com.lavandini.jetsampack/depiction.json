@@ -69,7 +69,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "Tested on Taurine.\n Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd\n- aggregated\n- HeuristicInterpreter\n- ScreenTimeAgent\n- appstored\n- iconserviceagent\n- suggestd\n- coreduetd\n- com.apple.sbd\n- PerfPowerServicesSignpostReader\n- cloud\n- wifianalyticsd\n- tccd\n- UsageTrackingAgent\n- assetsd\n- dasd\n- AppSSODaemon\n- contextstored\n- mediaserverd\n- online-auth-agent\n- callservicesd",
+               "markdown": "Tested on Taurine.\n\n Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd\n- aggregated\n- HeuristicInterpreter\n- ScreenTimeAgent\n- appstored\n- iconserviceagent\n- suggestd\n- coreduetd\n- com.apple.sbd\n- PerfPowerServicesSignpostReader\n- cloud\n- wifianalyticsd\n- tccd\n- UsageTrackingAgent\n- assetsd\n- dasd\n- AppSSODaemon\n- contextstored\n- mediaserverd\n- online-auth-agent\n- callservicesd",
                "useSpacing": false,
                "class": "DepictionMarkdownView"
             },
@@ -88,7 +88,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "Initial release. Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd",
+               "markdown": "Initial release.\n\n Tested on Taurine.\n\n  Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd",
                "useSpacing": false,
                "class": "DepictionMarkdownView"
             },
