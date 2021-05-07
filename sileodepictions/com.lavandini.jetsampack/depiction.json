@@ -60,7 +60,7 @@
          "class": "DepictionStackView"
       },
       {
-         "tabname": "Changelog",
+         "tabname": "Release",
          "views": [
             {
                "title": "Version 1.2-1+debug",
@@ -69,7 +69,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "comingsoon",
+               "markdown": "Tested on Taurine\nDaemon included:\n-deleted \n-fileproviderd \n-lsd \n-pkd \n-adprivacyd \n-searchd \n-aggregated \n-HeuristicInterpreter \n-ScreenTimeAgent \n-appstored \n-iconserviceagent \n-suggestd \n-coreduetd \n-com.apple.sbd \n-PerfPowerServicesSignpostReader \n-cloud \n-wifianalyticsd \n-tccd \n-UsageTrackingAgent \n-assetsd \n-dasd \n-AppSSODaemon \n-contextstored \n-mediaserverd \n-online-auth-agent \n-callservicesd",
                "useSpacing": false,
                "class": "DepictionMarkdownView"
             },
