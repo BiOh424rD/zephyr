@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>1</version>
-		<change>Initial Release</change>
+		<change>Initial release. Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd</change>
 	</changes>
 </changelog>
