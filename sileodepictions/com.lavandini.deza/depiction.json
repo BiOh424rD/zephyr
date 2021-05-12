@@ -1,0 +1,105 @@
+{
+   "minVersion": "0.1",
+   "headerImage": "https://bioh424rd.github.io/zephyr/assets/Banners/RepoHeader.png",
+   "tintColor": "#95B365",
+   "tabs": [
+      {
+         "tabname": "Details",
+         "views": [
+            {
+               "title": "Puts the blanket on some known daemons",
+               "useBoldText": true,
+               "useBottomMargin": false,
+               "class": "DepictionSubheaderView"
+            },
+            {
+               "markdown": "*Supports iOS14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n### endbold.\n\n",
+               "useSpacing": true,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "⚠️",
+               "author": "Lavandini",
+               "markdown": "This is an experimental workaround and it may cause instability. So if you don't feel like it, don't install it.",
+               "class": "DepictionReviewView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "Submit a request or a problem",
+               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
+               "class": "DepictionTableButtonView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+
+            {
+               "title": "Latest Version",
+               "class": "DepictionHeaderView"
+            },
+            {
+               "title": "Version",
+               "text": "1.2-1+debug",
+               "class": "DepictionTableTextView"
+            },
+            {
+               "title": "Released",
+               "text": "03/May/2021",
+               "class": "DepictionTableTextView"
+            },
+            {
+               "spacing": 20,
+               "class": "DepictionSpacerView"
+            }
+         ],
+         "class": "DepictionStackView"
+      },
+      {
+         "tabname": "Release",
+         "views": [
+            {
+               "title": "Version 1.2-1+debug",
+               "useBoldText": true,
+               "useBottomMargin": true,
+               "class": "DepictionSubheaderView"
+            },
+            {
+               "markdown": "Tested on Taurine.\n\n Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd\n- aggregated\n- HeuristicInterpreter\n- ScreenTimeAgent\n- appstored\n- iconserviceagent\n- suggestd\n- coreduetd\n- com.apple.sbd\n- PerfPowerServicesSignpostReader\n- cloud\n- wifianalyticsd\n- tccd\n- UsageTrackingAgent\n- assetsd\n- dasd\n- AppSSODaemon\n- contextstored\n- mediaserverd\n- online-auth-agent\n- callservicesd",
+               "useSpacing": false,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 03/May/2019</small>",
+               "useRawFormat": true,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "Version 1-1+debug",
+               "useBoldText": true,
+               "useBottomMargin": true,
+               "class": "DepictionSubheaderView"
+            },
+            {
+               "markdown": "Initial release.\n\n Tested on Taurine.\n\n  Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd",
+               "useSpacing": false,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/Apr/2021</small>",
+               "useRawFormat": true,
+               "class": "DepictionMarkdownView"
+            }
+         ],
+         "class": "DepictionStackView"
+      }
+   ],
+   "class": "DepictionTabView"
+}

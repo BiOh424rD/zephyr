@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>Version 1.2-1+debug</version>
+		<change>Initial release. Tested on Taurine. Daemon included: -deleted -fileproviderd -lsd -pkd -adprivacyd -searchd</change>
+	</changes>
+	<changes>
+    	<version>Version 1-1+debug"</version>
+	    <change>Tested on Taurine. Daemon included: -deleted -fileproviderd -lsd -pkd -adprivacyd -searchd -aggregated -HeuristicInterpreter -ScreenTimeAgent -appstored -iconserviceagent -suggestd -coreduetd -com.apple.sbd -PerfPowerServicesSignpostReader -cloud -wifianalyticsd -tccd -UsageTrackingAgent -assetsd -dasd -AppSSODaemon -contextstored -mediaserverd -online-auth-agent -callservicesd</change>
+	</changes>
+</changelog>
