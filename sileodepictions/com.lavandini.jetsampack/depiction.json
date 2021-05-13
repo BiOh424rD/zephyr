@@ -13,7 +13,7 @@
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports iOS14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n### endbold.\n\n",
+               "markdown": "*Supports iOS14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### ONLY FOR TEST.\n\nplease\n\n### DON'T INSTALL THIS PACKAGE!.\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
@@ -23,7 +23,7 @@
             {
                "title": "⚠️",
                "author": "Lavandini",
-               "markdown": "This is an experimental workaround and it may cause instability. So if you don't feel like it, don't install it.",
+               "markdown": "This is an experimental workaround and it may cause instability. Don't install it!",
                "class": "DepictionReviewView"
             },
             {
