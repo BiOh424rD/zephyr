@@ -1,13 +1,13 @@
 {
    "minVersion": "0.1",
    "headerImage": "https://bioh424rd.github.io/zephyr/assets/Banners/RepoHeader.png",
-   "tintColor": "#95B365",
+   "tintColor": "#fb00b4",
    "tabs": [
       {
          "tabname": "Details",
          "views": [
             {
-               "title": "Puts the blanket on some known daemons",
+               "title": "Premade layout for Veza",
                "useBoldText": true,
                "useBottomMargin": false,
                "class": "DepictionSubheaderView"
@@ -23,7 +23,7 @@
             {
                "title": "⚠️",
                "author": "Lavandini",
-               "markdown": "This is an experimental workaround and it may cause instability. So if you don't feel like it, don't install it.",
+               "markdown": "For any info check the README located in /Library/Themes/Flamingo.theme/Bundles/Veza",
                "class": "DepictionReviewView"
             },
             {
