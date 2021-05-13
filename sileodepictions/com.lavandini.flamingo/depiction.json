@@ -7,13 +7,13 @@
          "tabname": "Details",
          "views": [
             {
-               "title": "Premade layout for Veza",
+               "title": "A pre-made layout for Veza.",
                "useBoldText": true,
                "useBottomMargin": false,
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports iOS14 on ProcursusBootstrap.*\n\nBased on 'StopCrashingPls' source code by HASBANG PRODUCTIONS.\n\n### some bold example.\n\nsecond text.\n\n### endbold.\n\n",
+               "markdown": "*Supports iOS14.*\n\nUse the pre-existing icons of your themes for Veza.\n\n### Requires SnowBoard.\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
@@ -23,7 +23,7 @@
             {
                "title": "⚠️",
                "author": "Lavandini",
-               "markdown": "For any info check the README located in /Library/Themes/Flamingo.theme/Bundles/Veza",
+               "markdown": "For any info check the README located in */Library/Themes/Flamingo.theme/Bundles/Veza*",
                "class": "DepictionReviewView"
             },
             {
@@ -44,12 +44,12 @@
             },
             {
                "title": "Version",
-               "text": "1.2-1+debug",
+               "text": "1.0-4+debug",
                "class": "DepictionTableTextView"
             },
             {
                "title": "Released",
-               "text": "03/May/2021",
+               "text": "13/May/2021",
                "class": "DepictionTableTextView"
             },
             {
@@ -63,37 +63,18 @@
          "tabname": "Release",
          "views": [
             {
-               "title": "Version 1.2-1+debug",
+               "title": "Version 1.0-4+debug",
                "useBoldText": true,
                "useBottomMargin": true,
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "Tested on Taurine.\n\n Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd\n- aggregated\n- HeuristicInterpreter\n- ScreenTimeAgent\n- appstored\n- iconserviceagent\n- suggestd\n- coreduetd\n- com.apple.sbd\n- PerfPowerServicesSignpostReader\n- cloud\n- wifianalyticsd\n- tccd\n- UsageTrackingAgent\n- assetsd\n- dasd\n- AppSSODaemon\n- contextstored\n- mediaserverd\n- online-auth-agent\n- callservicesd",
+               "markdown": "Initial Public Release",
                "useSpacing": false,
                "class": "DepictionMarkdownView"
             },
             {
-               "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 03/May/2019</small>",
-               "useRawFormat": true,
-               "class": "DepictionMarkdownView"
-            },
-            {
-               "class": "DepictionSeparatorView"
-            },
-            {
-               "title": "Version 1-1+debug",
-               "useBoldText": true,
-               "useBottomMargin": true,
-               "class": "DepictionSubheaderView"
-            },
-            {
-               "markdown": "Initial release.\n\n Tested on Taurine.\n\n  Daemon included:\n- deleted\n- fileproviderd\n- lsd\n- pkd\n- adprivacyd\n- searchd",
-               "useSpacing": false,
-               "class": "DepictionMarkdownView"
-            },
-            {
-               "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/Apr/2021</small>",
+               "markdown": "<small style=\"color: #fb00b4; margin-top: -8px;\">Released 13/May/2021</small>",
                "useRawFormat": true,
                "class": "DepictionMarkdownView"
             }
