@@ -1,0 +1,86 @@
+{
+   "minVersion": "0.1",
+   "headerImage": "https://bioh424rd.github.io/zephyr/assets/Banners/RepoHeader.png",
+   "tintColor": "#fb00b4",
+   "tabs": [
+      {
+         "tabname": "Details",
+         "views": [
+            {
+               "title": "A pre-made layout for Veza.",
+               "useBoldText": true,
+               "useBottomMargin": false,
+               "class": "DepictionSubheaderView"
+            },
+            {
+               "markdown": "*Supports iOS14.*\n\nUse the pre-existing icons of your themes for Veza.\n\n### Requires SnowBoard.\n\n",
+               "useSpacing": true,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "⚠️",
+               "author": "Lavandini",
+               "markdown": "For any info check the README located in */Library/Themes/Flamingo.theme/Bundles/Veza*",
+               "class": "DepictionReviewView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+            {
+               "title": "Submit a request or a problem",
+               "action": "depiction-https://bioh424rd.github.io/theallseeingeye/submit.json",
+               "class": "DepictionTableButtonView"
+            },
+            {
+               "class": "DepictionSeparatorView"
+            },
+
+            {
+               "title": "Latest Version",
+               "class": "DepictionHeaderView"
+            },
+            {
+               "title": "Version",
+               "text": "1.0-4+debug",
+               "class": "DepictionTableTextView"
+            },
+            {
+               "title": "Released",
+               "text": "13/May/2021",
+               "class": "DepictionTableTextView"
+            },
+            {
+               "spacing": 20,
+               "class": "DepictionSpacerView"
+            }
+         ],
+         "class": "DepictionStackView"
+      },
+      {
+         "tabname": "Release",
+         "views": [
+            {
+               "title": "Version 1.0-4+debug",
+               "useBoldText": true,
+               "useBottomMargin": true,
+               "class": "DepictionSubheaderView"
+            },
+            {
+               "markdown": "Initial Public Release",
+               "useSpacing": false,
+               "class": "DepictionMarkdownView"
+            },
+            {
+               "markdown": "<small style=\"color: #fb00b4; margin-top: -8px;\">Released 13/May/2021</small>",
+               "useRawFormat": true,
+               "class": "DepictionMarkdownView"
+            }
+         ],
+         "class": "DepictionStackView"
+      }
+   ],
+   "class": "DepictionTabView"
+}

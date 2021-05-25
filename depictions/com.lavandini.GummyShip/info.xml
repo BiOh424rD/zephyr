@@ -1,0 +1,31 @@
+<package>
+	<id>com.lavandini.flamingo</id>
+	<name>Flamingo</name>
+	<version>1.0-4+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard.ui, com.apextweaks.veza</package>
+	</dependencies>
+	<shortDescription>A pre-made layout for Veza.</shortDescription>
+	<descriptionlist>
+		<description>A pre-made layout for Veza.</description>
+		<description>Use the pre-existing icons of your themes for Veza.</description>
+    	<description>Requires SnowBoard.</description>
+
+	</descriptionlist>
+	<changelog>
+		<change>Version 1.0-4+debug</change>
+		<change>Initial Public Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
