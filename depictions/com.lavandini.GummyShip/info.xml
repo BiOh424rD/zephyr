@@ -1,24 +1,22 @@
 <package>
-	<id>com.lavandini.flamingo</id>
-	<name>Flamingo</name>
-	<version>1.0-4+debug</version>
+	<id>com.lavandini.gummyship</id>
+	<name>GummyShip</name>
+	<version>1.0-2+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.spark.snowboard.ui, com.apextweaks.veza</package>
+		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>A pre-made layout for Veza.</shortDescription>
+	<shortDescription>INTERNAL PACKAGE</shortDescription>
 	<descriptionlist>
-		<description>A pre-made layout for Veza.</description>
-		<description>Use the pre-existing icons of your themes for Veza.</description>
-    	<description>Requires SnowBoard.</description>
+		<description>Don't install this.</description>
 
 	</descriptionlist>
 	<changelog>
-		<change>Version 1.0-4+debug</change>
+		<change>Version 1.0-2+debug</change>
 		<change>Initial Public Release</change>
 	</changelog>
 	<links>

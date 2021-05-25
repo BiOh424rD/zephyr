@@ -1,19 +1,19 @@
 {
    "minVersion": "0.1",
    "headerImage": "https://bioh424rd.github.io/zephyr/assets/Banners/RepoHeader.png",
-   "tintColor": "#fb00b4",
+   "tintColor": "#eaa719",
    "tabs": [
       {
          "tabname": "Details",
          "views": [
             {
-               "title": "A pre-made layout for Veza.",
+               "title": "INTERNAL PACKAGE",
                "useBoldText": true,
                "useBottomMargin": false,
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "*Supports iOS14.*\n\nUse the pre-existing icons of your themes for Veza.\n\n### Requires SnowBoard.\n\n",
+               "markdown": "*Supports iOS14.*\n\n",
                "useSpacing": true,
                "class": "DepictionMarkdownView"
             },
@@ -23,7 +23,7 @@
             {
                "title": "⚠️",
                "author": "Lavandini",
-               "markdown": "For any info check the README located in */Library/Themes/Flamingo.theme/Bundles/Veza*",
+               "markdown": "Don't install this!",
                "class": "DepictionReviewView"
             },
             {
@@ -44,12 +44,12 @@
             },
             {
                "title": "Version",
-               "text": "1.0-4+debug",
+               "text": "1.0-2+debug",
                "class": "DepictionTableTextView"
             },
             {
                "title": "Released",
-               "text": "13/May/2021",
+               "text": "25/May/2021",
                "class": "DepictionTableTextView"
             },
             {
@@ -63,18 +63,18 @@
          "tabname": "Release",
          "views": [
             {
-               "title": "Version 1.0-4+debug",
+               "title": "Version 1.0-2+debug",
                "useBoldText": true,
                "useBottomMargin": true,
                "class": "DepictionSubheaderView"
             },
             {
-               "markdown": "Initial Public Release",
+               "markdown": "Initial Release",
                "useSpacing": false,
                "class": "DepictionMarkdownView"
             },
             {
-               "markdown": "<small style=\"color: #fb00b4; margin-top: -8px;\">Released 13/May/2021</small>",
+               "markdown": "<small style=\"color: #eaa719; margin-top: -8px;\">Released 25/May/2021</small>",
                "useRawFormat": true,
                "class": "DepictionMarkdownView"
             }
