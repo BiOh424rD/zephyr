@@ -12,12 +12,12 @@
 	</dependencies>
 	<shortDescription>INTERNAL PACKAGE</shortDescription>
 	<descriptionlist>
-		<description>Don't install this.</description>
+		<description>INTERNAL PACKAGE</description>
 
 	</descriptionlist>
 	<changelog>
 		<change>Version 1.0-2+debug</change>
-		<change>Initial Public Release</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
